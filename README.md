@@ -10,7 +10,7 @@ _This project was developed by: Frank Valdez, Julie Nguyen, Konstantin Tikhonov,
 
 ## Demo ##
 
-To experience a demo of Find Your Nature, click the following link: [https://v-tank.github.io/Find-Your-Nature/](https://v-tank.github.io/Find-Your-Nature/)
+To experience a demo of Find Your Nature, click the following link: [https://v-tank.github.io/Find-Your-Nature/](https://trantastic.github.io/Find-Your-Nature/)
 
 
 ## How-To ## 
